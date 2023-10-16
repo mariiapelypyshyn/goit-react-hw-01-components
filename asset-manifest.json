@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mariiapelypyshyn/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/mariiapelypyshyn/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/mariiapelypyshyn/goit-react-hw-01-components/static/css/main.8eebfcba.css",
+    "main.js": "/mariiapelypyshyn/goit-react-hw-01-components/static/js/main.c17db556.js",
     "index.html": "/mariiapelypyshyn/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/mariiapelypyshyn/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/mariiapelypyshyn/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.8eebfcba.css.map": "/mariiapelypyshyn/goit-react-hw-01-components/static/css/main.8eebfcba.css.map",
+    "main.c17db556.js.map": "/mariiapelypyshyn/goit-react-hw-01-components/static/js/main.c17db556.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.8eebfcba.css",
+    "static/js/main.c17db556.js"
   ]
 }
