@@ -1,5 +1,3 @@
-import css from './App.module.css';
-
 import { Profile } from './Profile/Profile';
 import user from '../data-json/user.json';
 
