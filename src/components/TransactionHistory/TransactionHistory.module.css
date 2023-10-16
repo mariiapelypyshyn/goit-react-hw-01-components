@@ -1,0 +1,14 @@
+.transactionHistory {
+  box-sizing: border-box;
+  text-align: center;
+  width: 400px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fff;
+  box-shadow: -1px -1px 22px -5px rgba(0, 0, 0, 0.75);
+}
+
+.row:nth-child(2n) {
+  background-color: #fff700;
+}
