@@ -2,6 +2,7 @@ import css from './Profile.module.css';
 
 export const Profile = ({ username, tag, location, avatar, stats }) => {
 
+    
     return (
         <div className={css.profile}>
             <div className={css.description}>
